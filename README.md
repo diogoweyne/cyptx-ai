@@ -1,8 +1,4 @@
-# 🚀 Cyptx AI
-
-> Transformando transcrições comerciais em insights estratégicos com Inteligência Artificial e Processamento de Linguagem Natural.
-
----
+# 🚀 Cyptx 
 
 ## 📖 Sobre o Projeto
 
